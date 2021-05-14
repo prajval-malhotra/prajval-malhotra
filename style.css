@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .grid-2{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
+    /* display: grid;
+    grid-template-columns: repeat(2,1fr); */
 }
 
 body{
@@ -27,6 +27,8 @@ a{
 .section-1{
     padding-top: 40vh;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .section-1 p{
@@ -38,6 +40,10 @@ a{
 .section-1 h2{
     font-size: 2rem;
     margin-bottom: 10px;
+}
+
+.section-1 h3{
+    color: aqua;
 }
 
 .section-1 a{
