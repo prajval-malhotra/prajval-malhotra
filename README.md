@@ -1,4 +1,4 @@
-### Important links
+### links
 
 https://prajval-malhotra.github.io/prajval-malhotra/
 </br></br>
